@@ -34,7 +34,7 @@ public class Pregunta{
                     arrayRespuesta.add(new Respuesta(i, randAux));
                 }
             }
-            System.out.println("Elije la opcion correcta");
+            System.out.println("Elige la opcion correcta");
             System.out.println("? + " + sumY + " = " + resultado);
         } else if(bandera == 2){
             for(int i = 1; i <= 4; i++){
@@ -45,7 +45,7 @@ public class Pregunta{
                     arrayRespuesta.add(new Respuesta(i, randAux));
                 }
             }
-            System.out.println("Elije la opcion correcta");
+            System.out.println("Elige la opcion correcta");
             System.out.println(sumX + " + ?" + " = " + resultado);
         }
 
