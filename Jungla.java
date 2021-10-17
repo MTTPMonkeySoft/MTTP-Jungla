@@ -1,13 +1,14 @@
 import java.util.Scanner;
 
 public class Jungla {
-    static Scanner scanner = new Scanner(System.in);
-    static int dificultad = 2;
+    private Scanner scanner = new Scanner(System.in);
+    private int dificultad = 2;
     public static void main(String[] args){
-        mostrarMenu();
+        Jungla jungla = new Jungla();
+        jungla.mostrarMenu();;
     }
     
-    public static void mostrarMenu(){
+    public void mostrarMenu(){
         int opcionElegida;
         System.out.println("---------- JUNGLA ---------- \n");
         System.out.println("1.- Iniciar nueva partida.");
@@ -28,7 +29,7 @@ public class Jungla {
         }
     }
 
-    public static void menuDificultad(){
+    private void menuDificultad(){
         System.out.println("---------- DIFICULTAD ---------- \n");
         System.out.println("1.- Facil.");
         System.out.println("2.- Normal.");
@@ -41,7 +42,7 @@ public class Jungla {
         mostrarMenu();
     }
 
-    public static void iniciarPartida(){
+    private void iniciarPartida(){
         Partida partida = new Partida(dificultad);
         partida.jugar();
     }    
