@@ -30,7 +30,7 @@ public class Pregunta{
     
     private String[] leerPregunta(int dificultad){
         String linea = "";
-        String delimitante = "*";
+        String delimitante = ";";
         String[] aux = null;
         try{
             String filePath;

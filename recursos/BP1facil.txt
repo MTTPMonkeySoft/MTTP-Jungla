@@ -1,26 +1,26 @@
-1*Cuál es el número anterior a 1000*999*990*1001
-2*Un perro pesa 20 kilos menos que el*¿Cuanto pesa la cria?*10 kilos*20 kilos*30 kilos
-3*Cuál es el resultado de multiplicar 7x9*63*72*58
-4*Cálculo mental rápido: cuánto es 12 menos 7*5*7*6
-5*Cuántos minutos tiene una hora*60 minutos*24 minutos*1 minutos
-6*Cuántos meses tiene un trimestre*3 meses*4 meses*6 meses
-7*Cuánto es un lustro*5 años*1 año*10 años
-8*Si tienes un billete de 100* dos billetes de 20 y cuatro monedas de 1* ¿cuánto dinero tienes en total?*144*140*154
-9*¿Qué es la propiedad asociativa en una suma?*En una suma de tres sumandos si cambiamos la agrupación de los sumandos el resultado no varía*En una suma si cambiamos el orden de los sumandos el resultado no varía**
-10*Ordena de mayor a menor estas centenas*900-700-400-200-100*400-100-700-200-900*200-400-900-700-100
-11*Cuantos años tiene una década*10 años*15 años*2 años
-12*Que número sigue en la secuencia de números: 49 - 47 - 45 - 43 - …*41*42*40
-13*¿Cuál de todas estas es una unidad de volumen ?*Litro*centimetro*pulgada
-14*¿Cuántas flores hay en 2 docenas de rosas?*triangulo*cuadrado*circulo
-15*¿Cuántas flores hay en 2 docenas de rosas?*24*12*20
-16*Cuantos dígitos hay en el numero 1000*4*3*5
-17*Cual es el mayor numero de 2 cifras*99*100*89
-18*Cual de los siguientes es un numero impar*19*16*50
-|9*Ordena los siguientes números del mas pequeño al mas grande*Ochenta y cinco , ciento cincuenta y tres , doscientos setenta y tres , cuatrocientos noventa y nueve , Ciento cincuenta y tres , doscientos setenta y tres , cuatrocientos noventa y nueve , ochenta y cinco*Ochenta y cinco , doscientos setenta y tres , ciento cincuenta y tres , cuatrocientos noventa y nueve
-20*Cuanto en 396 - 274*122*126*132
-21*Cuanto es 11 + 22 + 33*66*56*76
-22*Cuanto es 190 - 87 + 16*119*129*120
-23*Los números que faltan en la serie son  10 - 13 - 16 - 19 - … - 25 - 28 - … - 34*22-31*26-30*24-26
+1;Cuál es el número anterior a 1000;999;990;1001
+2;Un perro pesa 20 kilos menos que el;¿Cuanto pesa la cria?;10 kilos;20 kilos;30 kilos
+3;Cuál es el resultado de multiplicar 7x9;63;72;58
+4;Cálculo mental rápido: cuánto es 12 menos 7;5;7;6
+5;Cuántos minutos tiene una hora;60 minutos;24 minutos;1 minutos
+6;Cuántos meses tiene un trimestre;3 meses;4 meses;6 meses
+7;Cuánto es un lustro;5 años;1 año;10 años
+8;Si tienes un billete de 100; dos billetes de 20 y cuatro monedas de 1; ¿cuánto dinero tienes en total?;144;140;154
+9;¿Qué es la propiedad asociativa en una suma?;En una suma de tres sumandos si cambiamos la agrupación de los sumandos el resultado no varía;En una suma si cambiamos el orden de los sumandos el resultado no varía;;
+10;Ordena de mayor a menor estas centenas;900-700-400-200-100;400-100-700-200-900;200-400-900-700-100
+11;Cuantos años tiene una década;10 años;15 años;2 años
+12;Que número sigue en la secuencia de números: 49 - 47 - 45 - 43 - …;41;42;40
+13;¿Cuál de todas estas es una unidad de volumen ?;Litro;centimetro;pulgada
+14;¿Cuántas flores hay en 2 docenas de rosas?;triangulo;cuadrado;circulo
+15;¿Cuántas flores hay en 2 docenas de rosas?;24;12;20
+16;Cuantos dígitos hay en el numero 1000;4;3;5
+17;Cual es el mayor numero de 2 cifras;99;100;89
+18;Cual de los siguientes es un numero impar;19;16;50
+|9;Ordena los siguientes números del mas pequeño al mas grande;Ochenta y cinco , ciento cincuenta y tres , doscientos setenta y tres , cuatrocientos noventa y nueve , Ciento cincuenta y tres , doscientos setenta y tres , cuatrocientos noventa y nueve , ochenta y cinco;Ochenta y cinco , doscientos setenta y tres , ciento cincuenta y tres , cuatrocientos noventa y nueve
+20;Cuanto en 396 - 274;122;126;132
+21;Cuanto es 11 + 22 + 33;66;56;76
+22;Cuanto es 190 - 87 + 16;119;129;120
+23;Los números que faltan en la serie son  10 - 13 - 16 - 19 - … - 25 - 28 - … - 34;22-31;26-30;24-26
 
 
 
