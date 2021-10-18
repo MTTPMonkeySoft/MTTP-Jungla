@@ -1,0 +1,61 @@
+1*¿A cuántas unidades equivale 10 decenas de millar?*100000 unidades*10000 unidades*1000 unidades
+2*Escribe el número ordinal trigésimo quinto en cifras*35*135*25
+3*¿Qué cantidad expresa el número romano V?*cinco*uno*diez
+4*Si en una carrera vas tres puestos por detrás del vigésimo segundo¿en qué puesto vas?*Decimonoveno*Decimotercero*Noveno
+5*Cuál es el nombre del triángulo que tiene dos lados iguales y uno desigual*isósceles*escaleno*equilátero
+6*Expresa 7 kg y 670 g en gramos*7670*70670*767
+7*Qué hora es si tanto la manilla pequeña del reloj como la grande están en las 3*Las tres y cuarto*Las tres en punto*Las tres  y media
+8*Cómo puedes comprobar si has hecho bien una división*Multiplicando el cociente por el divisor y sumando el resto si lo hay*Volviéndola a hacer*Sumando el cociente por el divisor y el resto
+9*Qué es una recta secante*Es una recta que corta una curva en dos puntos*Es una recta exterior a una circunferencia*Es una recta que corta en un punto a una curva
+10*Escribe con números esta fracción: cinco séptimos*5/7*7/5*5/6
+11*Cálculo mental rápido: cuánto es (6 x 8 - 4)*44*54*50
+12*¿Qué es un polígono regular?*El que tiene todos sus lados y sus ángulos iguales*El que tiene sus lagos y ángulos desiguales* *
+13*Qué valor tiene este número romano: XVIII*18*19*17
+14*Qué es un paralelogramo?*Un cuadrilátero cuyos pares de lados opuestos son iguales y paralelos dos a dos*Una figura plana de cuatro lados iguales y cuatro ángulos interiores rectos**
+15*Cuanto es el resultado de:100x2+50-10*240*9990*4200
+16*Cuanto es: 12,08 + 1,24*13,32*12,32*14,08
+17*¿Cómo se llama el ángulo que forma 90 grados?*Ángulo recto*Angulo llano*Ángulo obtuso
+18*Mariana tiene 140 naranjas y quiere repartirlas entre sus 7 amigas de tal forma que todas tengan por igual.Que operación debe aplicar?*División*multiplicación*resta
+19*¿Cómo se llaman los triángulos que tienen 3 ángulos agudos?*Acutángulo*Rectángulo*Obtusángulo
+20*¿Cuántos lados tiene un octágono?*8*10*6
+21*¿Cuántos metros hay de 6,5 kilómetros ?*6500 metros*65 metros*650 metros
+22*¿Qué cantidad expresa el número romano X?*10*100*5
+23*Cual es el valor de este número romano XXIV*24*25*26
+24*Cual es la manera correcta de escribir el siglo 17 en números romanos*Siglo XVII*Siglo VII*Siglo XIIIX
+25*¿Cuántos segundos hay en una hora ?*3600 segundos*2400 segundos*3400 segundos
+26*¿Cuánto es 84 dividido entre 12?*7*4*12
+27*Cual es el resultado de (104/4)+5*31*26*36
+28*¿Como se escribe el numero 114 en números romanos?*CXIV*MXIIII*MXIV
+29*Cuantas caras tiene un cubo*6*8*4
+30*Cuantos kilómetros son 8500 hectómetros*850 kilometros*85 kilometros*8500 kilometros
+31*Cuanto vale L en números romanos*50*10*100
+32*Que signos van en los espacios para que sea verdadero  20 ( ) 4 ( ) 6 = 10*-;-*-;+*+;+
+33*Cuánto es 43,5 + 16,5 - 23,16*36,84*23,16*38,34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

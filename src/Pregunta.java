@@ -30,19 +30,19 @@ public class Pregunta{
     
     private String[] leerPregunta(int dificultad){
         String linea = "";
-        String delimitante = ",";
+        String delimitante = "*";
         String[] aux = null;
         try{
             String filePath;
             String pregunta;        
             if(dificultad == 1){
-                filePath = "E:\\Descargas\\Facil.txt";
+                filePath = ".\\recursos\\BP1facil.txt";
                 pregunta = "" + (random.nextInt(18) + 1);
             }else if(dificultad == 2){
-                filePath = "E:\\Descargas\\Moderado.txt";
+                filePath = ".\\recursos\\BP2Moderado.txt";
                 pregunta = "" + (random.nextInt(40) + 1);
             }else{
-                filePath = "E:\\Descargas\\Dificil.txt";
+                filePath = ".\\recursos\\BP3Dificil.txt";
                 pregunta = "" + (random.nextInt(33) + 1);
             }
             FileReader fileReader= new FileReader(filePath);

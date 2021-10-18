@@ -1,0 +1,68 @@
+1*Cuál es la representación gráfica del número nueve mil treinta y seis*9036*936*90036
+2*¿Cuál es la decena más próxima a 58?*60*50*55
+3*Qué número resulta si divides 56 entre 7*8*9*7
+4*Cómo escribirías en cifras seiscientos veinticinco mil doscientos dos*625202*6025202*60025202
+5*Para calcular cuánto es un tercio de 3996 ¿qué tienes que hacer?*dividir entre 3*multiplicar por 3*restar 3
+6*¿Verdadero o falso? Una división exacta es aquella en la que el resto es cero*Verdadero*falso* *
+7*Cómo se llama el polígono de siete lados*heptagono*hexagono*septagono
+8*¿Cuántos metros es un hectómetro?*100 metros*1 metro*10 metros
+9*Hoy han traído a la librería una caja con 125 libros y otra con 50 libros. Ya se han colocado 45 libros.¿Para saber cuántos faltan por colocar.Qué operaciones hay que realizar?*Sumar los libros que han llegado (125 + 50) y restarle los 45 que se han colocado* Sumar todas las cifras (125 + 50 + 45)*Restar 125 a los 45 que se han colocado
+10*Cálculo mental rápido: cuánto es 140 entre 10*14*1.4*1400
+11*Como se lee este número: 3 DM+ 6UM + 8C*36800*360800*3680
+12*Cálculo mental rápido: cuánto es 100x49*4900*490*0.049
+13*¿Cómo se lee el número 730.508.021?*Setecientos treinta millones quinientos ocho mil veintiuno*Setecientos treinta mil quinientos ocho mil veintiuno*Setecientos treinta millones quinientos ochenta mil veintiuno 
+14*Cómo es el número ordinal 38º en letras*Trigésimo octavo*Treintayochoavo*Vigésimo octavo
+15*¿Cuándo una división es entera?*Cuando el resto es distinto a 0*Cuando el resto es 0
+16*Si Ana tiene 1220 kilos de papa y los tiene que almacenar en sacos de 20 kilos cada uno ¿Qué operación tienes que hacer para saber cuántos sacos llenará?*División*Multiplicación*Resta
+17*¿Cuál es el doble de 35?*70*60*105
+18*¿Cuantos metros tiene 2 kilómetros?*2000*1000*500
+19*La equivalencia de 40 UNIDADES es:*4D*2D*7D
+20*El numero 89 se descompone en:*8D + 9U*9D + 8U*90D + 8U
+21.El doble del numero que falta es: 10 - 11 - 12 - 13 - 14 - …. - 16 - 17 - 18*28*34*30
+22*Selecciona el numero que corresponde: Dos millones trece mil sesenta y uno*2013061*213610*2130061
+23*En las divisiones se puede aplicar la propiedad conmutativa?*falso*verdadero**
+24*Cuantos segundos hay en 4 minuto*240 segundos*120 segundos*220 segundos
+25*Cuánto es :  93 dividido entre 3*31.15.21
+26*¿Cómo se denomina al resultado de una multiplicación?*producto*multiplicando*coeficiente
+27*Como se denomina a un número natural que solo puede ser dividido entre sí mismo y la unidad*Número primo*Número compuesto* *
+28*En las multiplicaciones se puede aplicar la propiedad conmutativa?*Verdadero*falso* *
+29*Cuánto es 45 dividido entre 9*5*4*6
+30*¿Cuánto es 447 + 334 - 500 ?*281*234*241
+31*Aproxima el número 7747 al millar*8000*7750*7800 
+32*Si una manzana pesa 200 gramos. ¿Cuánto pesan 6 manzanas?*1200 gramos*1800 gramos*800 gramos
+33*Para pasar de metros a centímetros se multiplica por 1.000?*falso*verdadero* *
+34*Selecciona la alternativa correcta*14,624>8,300*4,215>14,993*9,375<5,117
+35*Como se  lee el siguiente numero: 93014*Noventa y tres mil catorce*Nueve mil trescientos catorce*Novecientos tres mil catorce 
+36* Cuántos centímetros son 9 metros*900 centímetros*9000 centímetros*90 centimetros 
+37*Como se lee el siguiente número  14610*Catorce mil seiscientos diez*Mil cuarenta y seis*Mil cuatrocientos sesenta y uno 
+38*Cuantas Centenas (C) equivale 5 Unidades de Mil (UM)*50 centenas *500 centenas *5 centenas
+39*Cual es la descomposición correcta de 3.862*3 UM + 8 C + 6 D + 2 U*3000 UM + 800 C + 60 D + 2 U*30 UM + 80 C + 60 D + 2 U
+40*La mitad de 22 es*11*10*12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
