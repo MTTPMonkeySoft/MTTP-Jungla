@@ -11,7 +11,7 @@
 11;Cuantos años tiene una década;10 años;15 años;2 años
 12;Que número sigue en la secuencia de números: 49 - 47 - 45 - 43 - …;41;42;40
 13;¿Cuál de todas estas es una unidad de volumen ?;Litro;centimetro;pulgada
-14;¿Cuántas flores hay en 2 docenas de rosas?;triangulo;cuadrado;circulo
+99;¿Cuántas flores hay en 2 docenas de rosas?;triangulo;cuadrado;circulo
 15;¿Cuántas flores hay en 2 docenas de rosas?;24;12;20
 16;Cuantos dígitos hay en el numero 1000;4;3;5
 17;Cual es el mayor numero de 2 cifras;99;100;89
