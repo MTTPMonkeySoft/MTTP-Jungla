@@ -9,9 +9,9 @@
 9;Qué es una recta secante;Es una recta que corta una curva en dos puntos;Es una recta exterior a una circunferencia;Es una recta que corta en un punto a una curva
 10;Escribe con números esta fracción: cinco séptimos;5/7;7/5;5/6
 11;Cálculo mental rápido: cuánto es (6 x 8 - 4);44;54;50
-12;¿Qué es un polígono regular?;El que tiene todos sus lados y sus ángulos iguales;El que tiene sus lagos y ángulos desiguales; ;
+12;¿Qué es un polígono regular?;El que tiene todos sus lados y sus ángulos iguales;El que tiene sus lagos y ángulos desiguales;ninguno;
 13;Qué valor tiene este número romano: XVIII;18;19;17
-14;Qué es un paralelogramo?;Un cuadrilátero cuyos pares de lados opuestos son iguales y paralelos dos a dos;Una figura plana de cuatro lados iguales y cuatro ángulos interiores rectos;;
+14;Qué es un paralelogramo?;Un cuadrilátero cuyos pares de lados opuestos son iguales y paralelos dos a dos;Una figura plana de cuatro lados iguales y cuatro ángulos interiores rectos;ninguno;
 15;Cuanto es el resultado de:100x2+50-10;240;9990;4200
 16;Cuanto es: 12,08 + 1,24;13,32;12,32;14,08
 17;¿Cómo se llama el ángulo que forma 90 grados?;Ángulo recto;Angulo llano;Ángulo obtuso
@@ -29,7 +29,7 @@
 29;Cuantas caras tiene un cubo;6;8;4
 30;Cuantos kilómetros son 8500 hectómetros;850 kilometros;85 kilometros;8500 kilometros
 31;Cuanto vale L en números romanos;50;10;100
-32;Que signos van en los espacios para que sea verdadero  20 ( ) 4 ( ) 6 = 10;-;-;-;+;+;+
+32;Que signos van en los espacios para que sea verdadero  20 ( ) 4 ( ) 6 = 10;-,-;-,+;+,+
 33;Cuánto es 43,5 + 16,5 - 23,16;36,84;23,16;38,34
 
 
