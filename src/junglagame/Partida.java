@@ -1,3 +1,5 @@
+package junglagame;
+
 import java.util.Random;
 
 public class Partida{

@@ -1,3 +1,5 @@
+package junglagame;
+
 public class Tablero {
     private int[] tablero = new int[100];
 

@@ -1,3 +1,5 @@
+package junglagame;
+
 import java.util.Scanner;
 
 public class InfoPrint {

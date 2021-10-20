@@ -1,3 +1,5 @@
+package junglagame;
+
 public class Jugador{
 
     private int posicion;
