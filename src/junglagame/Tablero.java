@@ -57,5 +57,22 @@ public class Tablero {
         return tablero.length;
     }
     
+    public void printTablero(){
+        System.out.println("tablero:");
+        for (int i = 99; i >= 0 ; i--){
+            if(i % 10 == 0){
+                System.out.println( "|" + i + "|");
+                if(this.getCelda(i) != 0){
+                    System.out.print("-" + this.getCelda(i));
+                }
+            } else {
+                System.out.print("|" + i);
+                if(this.getCelda(i) != 0){
+                    System.out.print("-(" + this.getCelda(i) +")");
+                }
+            }
+            
+        }
+    }
 
 }

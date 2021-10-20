@@ -46,7 +46,7 @@ public class TestTablero {
         assertEquals(2, tmain.getCelda(46));//liana
         assertEquals(3, tmain.getCelda(59));//comodin
         assertEquals(4, tmain.getCelda(77));//pregunta
-        
+        /*
         System.out.println("tablero:");
         for (int i = 99; i >= 0 ; i--){
             if(i % 10 == 0){
@@ -62,5 +62,16 @@ public class TestTablero {
             }
             
         }
+        */
+    }
+
+    @Test
+        public void printTableroDePruebasTest(){
+            t.printTablero();
+        }
+    @Test
+    public void printTableroPrincipalTest(){
+        Tablero principal = new Tablero();
+        principal.printTablero();
     }
 }
