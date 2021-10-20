@@ -33,7 +33,7 @@
 33;Para pasar de metros a centímetros se multiplica por 1.000?;falso;verdadero; 
 34;Selecciona la alternativa correcta;14,624>8,300;4,215>14,993;9,375<5,117
 35;Como se  lee el siguiente numero: 93014;Noventa y tres mil catorce;Nueve mil trescientos catorce;Novecientos tres mil catorce 
-36; Cuántos centímetros son 9 metros;900 centímetros;9000 centímetros;90 centimetros 
+36;Cuántos centímetros son 9 metros;900 centímetros;9000 centímetros;90 centimetros 
 37;Como se lee el siguiente número  14610;Catorce mil seiscientos diez;Mil cuarenta y seis;Mil cuatrocientos sesenta y uno 
 38;Cuantas Centenas (C) equivale 5 Unidades de Mil (UM);50 centenas ;500 centenas ;5 centenas
 39;Cual es la descomposición correcta de 3.862;3 UM + 8 C + 6 D + 2 U;3000 UM + 800 C + 60 D + 2 U;30 UM + 80 C + 60 D + 2 U
