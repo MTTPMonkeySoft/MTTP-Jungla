@@ -38,13 +38,13 @@ public class Pregunta{
             String filePath;
             String pregunta;        
             if(dificultad == 1){
-                filePath = ".\\recursos\\BP1facil.txt";
+                filePath = ".\\.\\recursos\\BP1facil.txt";
                 pregunta = "" + (random.nextInt(18) + 1);
             }else if(dificultad == 2){
-                filePath = ".\\recursos\\BP2Moderado.txt";
+                filePath = ".\\.\\recursos\\BP2Moderado.txt";
                 pregunta = "" + (random.nextInt(40) + 1);
             }else{
-                filePath = ".\\recursos\\BP3Dificil.txt";
+                filePath = ".\\.\\recursos\\BP3Dificil.txt";
                 pregunta = "" + (random.nextInt(33) + 1);
             }
             FileReader fileReader= new FileReader(filePath);
