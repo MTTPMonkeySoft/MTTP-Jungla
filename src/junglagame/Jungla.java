@@ -7,7 +7,7 @@ public class Jungla {
     private int dificultad = 2;
     public static void main(String[] args){
         Jungla jungla = new Jungla();
-        jungla.mostrarMenu();;
+        jungla.mostrarMenu();
     }
     
     public void mostrarMenu(){
